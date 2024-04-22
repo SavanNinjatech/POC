@@ -1,0 +1,56 @@
+# .NET and Visual Studio specific files
+*.obj
+*.pdb
+*.user
+*.vs
+*.vscode
+bin/
+obj/
+TestResults/
+
+# Visual Studio Code specific files
+.vscode/
+
+# Build and package files
+*.dll
+*.exe
+*.zip
+*.nupkg
+
+# Package directories
+packages/
+node_modules/
+
+# Visual Studio files
+*.suo
+*.cache
+*.sln.docstates
+
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Bb]uildlog.txt
+*.unityproj
+*.unitypackage
+*.mdb
+*.pdb
+*.meta
+
+# ReSharper specific files
+_ReSharper*/
+
+# Rider specific files
+.idea/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# macOS Finder files
+.DS_Store
+
+# Linux files
+*~
